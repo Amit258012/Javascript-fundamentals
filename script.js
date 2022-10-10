@@ -21,7 +21,7 @@ console.log(firstName);
 //it is dynamic in nature 
 //which means it selects datatye automatically
 console.log(typeof firstName);
-console.log(firstName +" is "+ js +"\nHi "+ firstName);
+console.log(firstName +" is "+ js +"\nHi "+ firstName);  
 
 
 
